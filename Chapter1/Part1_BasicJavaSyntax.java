@@ -1,3 +1,10 @@
+/**
+ * @author Ciaran Eli Dorland
+ * 
+ * Part of a series of Java tutorials.
+ * Intended for use with Eclipse or your favorite Java IDE.
+ */
+
 /*
  Here, we'll take a look at the basic parts of a Java file,
  the primitive data types, some basic work with Strings,
