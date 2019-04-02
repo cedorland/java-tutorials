@@ -1,3 +1,10 @@
+/**
+ * @author Ciaran Eli Dorland
+ * 
+ * Part of a series of Java tutorials.
+ * Intended for use with Eclipse or your favorite Java IDE.
+ */
+
 package Chapter2;
 
 // This is an *import* statement. This line tells the computer that we're going to be using
