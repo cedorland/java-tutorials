@@ -15,6 +15,6 @@ In doing this, I really hope I can help someone find joy in programming for fun,
 
 I realize that this tutorial is pretty dense and a little fast-paced - the first three chapters are at least equivalent to an introductory, college-level Java class - but you should be able to look back on the topics I discuss here as you move forward both in the tutorials and in your programming career.
 
-If you have any suggestions or feel that certain topics require clarification or deserve expansion, please don't hesitate to post up a request or message me.
+If you have any suggestions or feel that certain topics require clarification or deserve expansion, please don't hesitate to post a request or an issue or even message me directly.
 
 Thanks again, and do good.
