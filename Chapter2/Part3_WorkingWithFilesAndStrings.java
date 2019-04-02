@@ -1,3 +1,10 @@
+/**
+ * @author Ciaran Eli Dorland
+ * 
+ * Part of a series of Java tutorials.
+ * Intended for use with Eclipse or your favorite Java IDE.
+ */
+
 package Chapter2;
 
 // These are all of the imported classes we'll be using later on in this section.
