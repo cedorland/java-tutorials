@@ -1,5 +1,6 @@
 # java-tutorials
 Tutorials on Java programming ranging from "I have no idea what anything is" to "I want to control things with my thoughts".
+*Note that these tutorials were intended for use in Eclipse or a similar IDE.*
 
 This repository was created by Ciaran Eli Dorland in 2019 to offer an introduction to Java for those unfamiliar with the language, and some tutorials on intermediate/advanced topics (eventually).
 
