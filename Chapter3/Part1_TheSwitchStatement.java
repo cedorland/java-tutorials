@@ -1,3 +1,10 @@
+/**
+ * @author Ciaran Eli Dorland
+ * 
+ * Part of a series of Java tutorials.
+ * Intended for use with Eclipse or your favorite Java IDE.
+ */
+
 package Chapter3;
 
 public class Part1_TheSwitchStatement {
