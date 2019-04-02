@@ -1,4 +1,11 @@
-package Solutions;
+/**
+ * @author Ciaran Eli Dorland
+ * 
+ * Part of a series of Java tutorials.
+ * Intended for use with Eclipse or your favorite Java IDE.
+ */
+
+package ProjectSolutions;
 
 import java.util.ArrayList;
 import java.util.Scanner;
