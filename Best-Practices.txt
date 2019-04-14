@@ -1,0 +1,15 @@
+A short list of the most important things to keep in mind while programming:
+
+- Comment your code. You don't want to forget what you were doing when you're 6 for-loops deep and have to go back and analyze your own work.
+
+- Add JavaDoc. You don't want to have to jump back and analyze exactly what that method you made does when you come back to work on your code in a month.
+
+- KISS : keep it simple, stupid. Go for descriptive variable names, but wherever possible, try not to make them too complex, like "integerForKeepingTrackOfHowManyLoopsHavePassed" could instead be "loopCount".
+
+- Write pseudocode first. It's a lot easier in the long run. Write out the general idea of what you're trying to accomplish before writing any real programs, then brainstorm on what could go wrong or what you want to add next. You'll have fewer bugs to fix. This can help you avoid having to completely rewrite your code because you were so busy programming that you forgot to make error handling fundamental, for example.
+
+- Make use of functional decomposition. It's way easier to write AND keep track of your code if you make a method for any process you're going to have to use a lot, and then give it a descriptive name and a JavaDoc comment.
+
+- Bugs aren't the enemy. Everyone makes mistakes, and having to fix bugs will help you A) learn more about the way the computer, the language, and the compiler work, and B) avoid making the same mistakes in the future.
+
+- Google is your friend!
