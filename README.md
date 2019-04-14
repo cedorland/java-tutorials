@@ -3,6 +3,9 @@ Tutorials on Java programming ranging from "I have no idea what anything is" to 
 
 **Note that these tutorials were intended for use in Eclipse or a similar IDE.**
 
+**As such, they are designed to be a standalone intro to Java programming. To use them,
+simply download Eclipse and open the files. Everything is explained via comments in the code files.**
+
 *This repository was created by Ciaran Eli Dorland in 2019 to offer an introduction to Java for those unfamiliar with the language, and some tutorials on intermediate/advanced topics (eventually).*
 
 To anyone who sees this page, hey. Thanks for visiting.
