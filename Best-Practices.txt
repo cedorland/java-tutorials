@@ -1,4 +1,4 @@
-A short list of the most important things to keep in mind while programming:
+A short list of some important things to keep in mind while programming:
 
 - Comment your code. You don't want to forget what you were doing when you're 6 for-loops deep
   and have to go back and analyze your own work.
